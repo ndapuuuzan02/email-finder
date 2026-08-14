@@ -1,0 +1,15 @@
+{
+  "name": "email-finder-render",
+  "version": "1.0.0",
+  "description": "Email permutation finder with free verification gate",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {},
+  "license": "MIT"
+}
